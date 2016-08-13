@@ -7,7 +7,7 @@ import org.sunil.javabrains.messenger.model.Message;
 import org.sunil.javabrains.messenger.model.Profile;
 
 public class DatabaseClass {
-	
+	/*Git*/
 	private static Map<Long, Message> messages=new HashMap<>();
 	private static Map<String, Profile> profiles=new HashMap<>();
 	
